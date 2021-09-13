@@ -1,25 +1,24 @@
 {
-  "title": "Template to prepare preprints and manuscripts using markdown and github actions",
+  "title": "The strange evolution of a group hostless parasites",
   "authors": [
     {
       "affiliations": [
-        "Université de Montréal",
-        "Québec Centre for Biodiversity Sciences"
+        "Universitat de València",
+        "Institut Cavanilles de Biodiversitat i Biologia Evolutiva"
       ],
-      "familyname": "Poisot",
-      "givennames": "Timothée",
-      "email": "timothee.poisot@umontreal.ca",
-      "orcid": "0000-0002-0735-5184",
+      "familyname": "Balbuena Díez-Pinés",
+      "givennames": "Juan Antonio",
+      "email": "j.a.balbuena@uva.es",
       "status": ["corresponding", "equal"]
     },
     {
       "affiliations": [
-        "Inn of the Prancing Pony",
-        "Fellowship of the Ring"
+        "Universitat de València",
+        "Institut Cavanilles de Biodiversitat i Biologia Evolutiva"
       ],
-      "familyname": "Took",
-      "givennames": "Peregrin",
-      "email": "pippin@took.shire"
+      "familyname": "Lucas Lledó",
+      "givennames": "José Ignacio",
+      "email": "joiglu@uva.es"
     },
     {
       "affiliations": [
